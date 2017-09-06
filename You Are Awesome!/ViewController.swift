@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     @IBAction func messageButton(_ sender: UIButton) {
 
 
-        let messages = ["You are awesome!", "You are great!", "You are fantastic!", "When the Genius Bar needs help, they call you!", "You are da Bomb!"]
+        let messages = ["You are awesome!", "You are great!", "You are fantastic!", "When the Genius Bar needs help, they call you!", "You are da bomb!"]
         
         var newIndex = -1
         
