@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var messageLabel: UILabel!
     
-    var index = -1
+    var index = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
